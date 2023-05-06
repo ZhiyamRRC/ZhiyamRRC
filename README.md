@@ -10,59 +10,81 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm not a coder
 <br>
+<hr>
 
 ### 🔥 Tech Stacks
 
 <p align="left"> 
   <a> 
-    <img alt="AWS" src="https://img.shields.io/badge/-Amazon-grey?logo=Amazon&logoColor=white">
+    <img alt="AWS" src="https://img.shields.io/badge/-AWS-%23232F3E?logo=amazonaws&logoColor=white">
   </a>
   &emsp;
   <a> 
-     <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?logo=HTML&logoColor=black">
+    <img alt="Azure" src="https://img.shields.io/badge/-Azure-%230078D4?logo=microsoftazure&logoColor=white">
+  </a>
+  &emsp;
+  <a> 
+    <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google Cloud Platform-%234285F4?logo=googlecloud&logoColor=white">
+  </a>
+  &emsp;
+  <a> 
+     <img alt="HTML" src="https://img.shields.io/badge/-HTML-%23FF4500?logo=html5&logoColor=white">
    </a>
   &emsp;
   <a> 
-     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%23F7DF1E.svg?logo=css&logoColor=black">
+     <img alt="CSS" src="https://img.shields.io/badge/-CSS-%231E90FF?logo=css3&logoColor=white">
    </a>
   &emsp;
   <a> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a> 
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=Typescript&logoColor=white">
   </a> 
   &emsp;
   <a> 
-    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-%233178C6?logo=Typescript&logoColor=white">
+  </a> 
+  &emsp;
+  <a> 
+    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-%23339933?logo=node.js&Color=white">
   </a> 
   &emsp;
    <a>
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white">
   </a>
   &emsp;
   <a>
-    <img alt="Serveless" src="https://img.shields.io/badge/-Serverless-orange?logo=serverless&logoColor=white"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
+    <img alt="Git" src="https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=white"/>
   </a>
   &emsp;
     <a> 
-    <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-%23181717?logo=github&logoColor=white">
   </a>
   &emsp;
   <a> 
-     <img alt="mongodb" src="https://img.shields.io/badge/-mongoDb-green?logo=mongodb&logoColor=white">
+     <img alt="React" src="https://img.shields.io/badge/-React-%2361DAFB?logo=react&logoColor=white">
+   </a>
+  &emsp;
+  <a> 
+     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-%2347A248?logo=mongodb&logoColor=white">
    </a>
   &emsp;
   <a>
-    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
+    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-%23009639?logo=nginx&logoColor=white"/>
+  </a>
+  &emsp;
+  <a>
+    <img alt="Apache" src="https://img.shields.io/badge/-Apache-%23D22128?logo=apache&logoColor=white"/>
+  </a>
+  &emsp;
+  <a>
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-%232496ED?logo=docker&logoColor=white"/>
+  </a>
+  &emsp;
+  <a>
+    <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-%23326CE5?logo=kubernetes&logoColor=white"/>
   </a>
 </p>
 <br>
+<hr>
 
 ### ⚡ Github Stats
 
@@ -74,6 +96,9 @@
 <br>
 </p>
 <br>
+<hr>
  
 ### 📫 Connect with Me
 
+<br>
+<hr>
