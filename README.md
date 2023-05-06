@@ -1,13 +1,15 @@
-### Hi there, I'm Zhiyam Zhabri 👋
+### Hi there 👋 I'm Zhiyam Zhabri;
+#### Infrastructure, Cloud and DevOps Engineer; From Kandy, Sri Lanka.
+<br>
 
-- 🔭 I’m currently working on nothing but freelancer
-- 🔥 Interested in DevOps and Cloud Engineering
-- 🌱 Currently learning Docker and Kubernetes
+- 🔭 I’m currently working on nothing but Freelancer;
+- 🔥 Interested in DevOps and Cloud Engineering;
+- 🌱 Currently learning Docker and Kubernetes;
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about AWS, Azure, GCP, Docker and ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm not a coder
-
+<br>
 
 ### 🔥 Tech Stacks
 
@@ -60,7 +62,7 @@
     <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
   </a>
 </p>
-
+<br>
 
 ### ⚡ Github Stats
 
@@ -71,7 +73,7 @@
 <br>
 <br>
 </p>
- 
+<br>
  
 ### 📫 Connect with Me
 
