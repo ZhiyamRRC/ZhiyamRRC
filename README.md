@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on nothing but Freelancer;
 - 🔥 Interested in DevOps and Cloud Engineering;
 - 🌱 Currently learning Docker and Kubernetes;
-- 👯 I’m looking for a role as IT Admin or DevOps Engineer
+- 👯 I’m looking for a role as IT Administrator or DevOps Engineer
 - 💬 Ask me about AWS, Azure, GCP, Docker and ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm not a coder; Script kiddo
